@@ -15,25 +15,25 @@
 
 |Description équipement|Emplacement|Point de connexion|
 |:---------------------|:----------|:-----------------|
-|Modem-routeur Live Box 6|Salon|Fibre optique|
-|Décodeur TV d'Orange|Salon|Wi-Fi Livebox 6|
-|Smart TV|Salon|Décodeur TV d'Orange|
-|Switch|Salon|Modem-routeur Livebox 6|
-|Network CPL TP-Link|Salon|Switch|
-|Tél. portable 1|mobile|Wi-Fi Livebox 6|
-|Tél. portable 2|mobile|Wi-Fi Livebox 6|
-|Répétuer Wi-Fi 6|à l'étage|Wi-Fi Livebox 6|
-|Smart TV|à l'étage|Répéteur Wi-Fi 6|
-|Répétuer Wi-Fi 6|cuisine|Wi-Fi Livebox 6|
-|Smart TV|cuisine|Répéteur Wi-Fi 6|
-|Prise CPL 1200 TP-Link|Chambre|Switch-Network CPL TP-Link|
-|Smart TV|Chambre|Prise CPL 1200 TP-Link chambre|
-|Prise CPL 1200 TP-Link|Bureau|Switch-Network CPL TP-Link|
-|Mon Laptop|Bureau|Prise CPL 1200 TP-Link Bureau|
-|VirtualBox routeur (NAT)|Virtual|Mon Laptp|
-|Win10 VM|Virtual|VirtualBox|
-|Win11 VM|Virtual|VirtualBox|
-|Ubuntu VM|Virtual|VirtualBox|
-|Debian 13 VM|Virtual|VirtualBox|
-|Imprimante|Bureau|Wi-Fi Livebox 6|
-|Deuxième Laptop|Bureau|Wi-Fi Livebox 6|
+|:wireless:Modem-routeur Live Box 6|Salon|Fibre optique|
+|:unlock:Décodeur TV d'Orange|Salon|Wi-Fi Livebox 6|
+|:tv:Smart TV|Salon|Décodeur TV d'Orange|
+|:left_right_arrow:Switch|Salon|Modem-routeur Livebox 6|
+|:electric_plug:Network CPL TP-Link|Salon|Switch|
+|:vibration_mode:Tél. portable 1|mobile|Wi-Fi Livebox 6|
+|:vibration_mode:Tél. portable 2|mobile|Wi-Fi Livebox 6|
+|:wireless:Répétuer Wi-Fi 6|à l'étage|Wi-Fi Livebox 6|
+|:tv:Smart TV|à l'étage|Répéteur Wi-Fi 6|
+|:wireless:Répétuer Wi-Fi 6|cuisine|Wi-Fi Livebox 6|
+|:tv:Smart TV|cuisine|Répéteur Wi-Fi 6|
+|:electric_plug:Prise CPL 1200 TP-Link|Chambre|Switch-Network CPL TP-Link|
+|:tv:Smart TV|Chambre|Prise CPL 1200 TP-Link chambre|
+|:electric_plug:Prise CPL 1200 TP-Link|Bureau|Switch-Network CPL TP-Link|
+|:computer:Mon Laptop|Bureau|Prise CPL 1200 TP-Link Bureau|
+|:signal_strength:VirtualBox routeur (NAT)|Virtual|Mon Laptp|
+|:computer:Win10 VM|Virtual|VirtualBox|
+|:computer:Win11 VM|Virtual|VirtualBox|
+|:computer:Ubuntu VM|Virtual|VirtualBox|
+|:computer:Debian 13 VM|Virtual|VirtualBox|
+|:printer:Imprimante|Bureau|Wi-Fi Livebox 6|
+|:computer:Deuxième Laptop|Bureau|Wi-Fi Livebox 6|
